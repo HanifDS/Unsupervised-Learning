@@ -4,4 +4,6 @@ I used a public dataset from Kaggle to cluster the countries using socio-economi
 I used Kmeans to cluster the data. 
 I then used python libraries: Pandas to analyse the data, Matplotlib and Seaborn to visualise it.
 
+Attached also is a powerpoint with some of the observations.
+
 https://www.kaggle.com/rohan0301/unsupervised-learning-on-country-data
